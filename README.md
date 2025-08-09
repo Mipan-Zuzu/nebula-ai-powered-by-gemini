@@ -31,10 +31,10 @@ nebula-ai-powered-by-gemini/
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-- **Frontend:** HTML, CSS/Tailwind, JavaScript/React
-- **Backend/API:** Node.js / Express
+- **Frontend:** typescript, next js .
+- **Backend/API:** Node.js 
 - **Model AI:** Google Gemini Flash 2.0
-- **Deploy:** Vercel / Netlify / Server Pribadi
+- **Deploy:** Vercel 
 
 ---
 
